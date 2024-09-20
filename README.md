@@ -1,4 +1,6 @@
 # 📦 bat-bat project (v11L)
+---
+[![](https://visitcount.itsvg.in/api?id=frost-ium&icon=10&color=4)](https://visitcount.itsvg.in)
 
 
 🌐 Website: https://frost-ium.github.io/index.html
@@ -41,8 +43,7 @@ Windows için optimize edilmiş bir temizlik, bakım ve fazlası içik kullanabi
 ### 🔝 En Çok Katkı Sağlayan Repo
 ![](https://github-contributor-stats.vercel.app/api?username=frost-ium&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=frost-ium&icon=10&color=4)](https://visitcount.itsvg.in)
+
 
   ## 💰 Bana bağış yaparak destek olabilirsin..
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Cofee) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Patreon) 
