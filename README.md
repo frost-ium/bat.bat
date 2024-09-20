@@ -1,10 +1,4 @@
-# bat.bat
-Windows autotools and more.
-
-
-durun bi ara yazıcam aga
-
-# 📦 bat-bat project
+# 📦 bat-bat project (v11L)
 
 
 🌐 Website: https://frost-ium.github.io/index.html
