@@ -25,12 +25,6 @@ Windows için optimize edilmiş bir temizlik, bakım ve fazlası içik kullanabi
 
 - Minecraft sunucu dosyalarını otomatik bulup indirme. (Beta)
 
-
-
-# 💫 Benim Hakkımda:
-🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
-
 ## 🌐 Sosyal Platformlar:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/frostium) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gg) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@11) 
 
