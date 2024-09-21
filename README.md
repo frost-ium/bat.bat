@@ -3,7 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=frost-ium&icon=10&color=4)](https://visitcount.itsvg.in)
 
 
-🌐 Website: https://frost-ium.github.io/index.html
+🌐 Web: (https://frost-ium.github.io/f.prj-web/)
 
 
 Windows için optimize edilmiş bir temizlik, bakım ve fazlası içik kullanabileceğiniz bir multitooldur.
